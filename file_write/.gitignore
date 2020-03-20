@@ -1,0 +1,7 @@
+#Visual Studio Files to Ignore
+Release/
+Debug/
+ipch/
+*.opensdf
+*.sdf
+*.suo

@@ -1,1 +1,4 @@
 *.data
+Debug/
+Release/
+.vs/
